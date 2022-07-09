@@ -17,5 +17,10 @@ public class Employee extends CorporateAccount {
 
 		System.out.println("Java" + "programm");
 		System.out.println('j' + 'a' + 'v' + 'a');
+		byte b = 10;
+		int i = 20;
+
+		int f = b + i;
+		System.out.println(f);
 	}
 }
